@@ -15,10 +15,6 @@
 
 [![necrocultist's GitHub stats](https://github-readme-stats.vercel.app/api?username=necrocultist&theme=tokyonight&hide=prs,issues&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=necrocultist&repo=Big-Irony)](https://github.com/necrocultist/Big-Irony)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=necrocultist&repo=Star-Destroyer)](https://github.com/necrocultist/Star-Destroyer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=necrocultist&repo=Tentaclescape)](https://github.com/necrocultist/Tentaclescape)
-
 #### Top Repositories
 
 <a href = "https://github.com/necrocultist/Big-Irony" target = "_blank"><img title = "Big IRony" src = "https://github-readme-stats.vercel.app/api/pin/?username=necrocultist&repo=Big-Irony&theme=dark&hide_border=false&bg_color=0D1117"></a> <a href = "https://github.com/necrocultist/Star-Destroyer" target = "_blank"><img title = "Star-Destroyer" src = "https://github-readme-stats.vercel.app/api/pin/?username=necrocultist&repo=Star-Destroyer&theme=dark&hide_border=false&bg_color=0D1117"></a> | <a href = "https://github.com/necrocultist/Tentaclescape" target = "_blank"><img title = "Tentaclescape" src = "https://github-readme-stats.vercel.app/api/pin/?username=necrocultist&repo=Tentaclescape&theme=dark&hide_border=false&bg_color=0D1117"></a>
