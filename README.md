@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/94318208/194724729-9cfef18b-77a8-4780-9f28-4f47e58376b6.png)
+![banner](https://user-images.githubusercontent.com/94318208/194726372-6a7b9f60-68ea-4507-a4b8-72acbd8249e4.jpg)
 
 - 🔭 I’m currently working on a personal project on Unity.
 - 🌱 I’m currently learning Game Development, Unity Engine, C++ and JavaScript.
