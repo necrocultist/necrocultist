@@ -2,14 +2,12 @@
 
 - 🔭 I’m currently working on some personal projects on Unity.
 - 🌱 I’m currently learning Game Development, Unity Engine, C++ and JavaScript.
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+
+- My Accounts = 
+<a href="https://necrocultist.itch.io" class="link">Itch.io</a>
+<a href="https://steamcommunity.com/profiles/76561198062431863/" class="link">Steam</a>
+<a href="https://open.spotify.com/user/36vnb82azbhan6jrdmpg3bk16" class="link">Spotify</a>
+<a href="https://www.instagram.com/necrocultist/" class="link">Instagram</a>
 
 #### GitHub Stats
 
