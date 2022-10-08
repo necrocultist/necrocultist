@@ -1,3 +1,4 @@
+![banner](https://user-images.githubusercontent.com/94318208/194724729-9cfef18b-77a8-4780-9f28-4f47e58376b6.png)
 
 - 🔭 I’m currently working on a personal project on Unity.
 - 🌱 I’m currently learning Game Development, Unity Engine, C++ and JavaScript.
