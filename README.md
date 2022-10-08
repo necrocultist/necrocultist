@@ -1,7 +1,8 @@
 ![banner](https://user-images.githubusercontent.com/94318208/194726372-6a7b9f60-68ea-4507-a4b8-72acbd8249e4.jpg)
 
-- 🔭 I’m currently working on a personal project on Unity.
-- 🌱 I’m currently learning Game Development, Unity Engine, C++ and JavaScript.
+- 3rd Grade Computer Engineering Student at Istanbul Technical University
+- Working on a personal project on Unity.
+- Learning Unity Engine, C++ and JavaScript.
 
 - My Accounts = 
 <a href="https://necrocultist.itch.io">Itch.io</a>
