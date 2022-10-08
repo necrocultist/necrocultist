@@ -18,6 +18,6 @@
 
 <a href = "https://github.com/necrocultist/Big-Irony" target = "_blank"><img title = "Big IRony" src = "https://github-readme-stats.vercel.app/api/pin/?username=necrocultist&repo=Big-Irony&theme=tokyonight&bg_color=0D1117"></a> <a href = "https://github.com/necrocultist/Star-Destroyer" target = "_blank"><img title = "Star-Destroyer" src = "https://github-readme-stats.vercel.app/api/pin/?username=necrocultist&repo=Star-Destroyer&theme=tokyonight&bg_color=0D1117"></a> <a href = "https://github.com/necrocultist/Tentaclescape" target = "_blank"><img title = "Tentaclescape" src = "https://github-readme-stats.vercel.app/api/pin/?username=necrocultist&repo=Tentaclescape&theme=tokyonight&bg_color=0D1117"></a>
 
-#### Spotify
+### Spotify
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=36vnb82azbhan6jrdmpg3bk16)](https://open.spotify.com/user/36vnb82azbhan6jrdmpg3bk16)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=36vnb82azbhan6jrdmpg3bk16&count=3)](https://open.spotify.com/user/36vnb82azbhan6jrdmpg3bk16)
