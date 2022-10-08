@@ -13,8 +13,8 @@
 
 #### GitHub Stats
 
-| <img align = "center" src="https://github-readme-stats.vercel.app/api?username=necrocultist&show_icons=true&count_private=true&theme=tokyonight&bg_color=0D1117" title = "necrocultist's Github Stats"> | <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=necrocultist&langs_count=6&layout=compact&theme=tokyonight&bg_color=0D1117" title = "necrocultist's Top Languages"> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img align = "center" src="https://github-readme-stats.vercel.app/api?username=necrocultist&show_icons=true&count_private=true&theme=tokyonight&bg_color=0D1117" title = "necrocultist's Github Stats"> <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=necrocultist&langs_count=6&layout=compact&theme=tokyonight&bg_color=0D1117" title = "necrocultist's Top Languages"> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Top Repositories
 
