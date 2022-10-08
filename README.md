@@ -11,4 +11,4 @@
 - ⚡ Fun fact: ...
   -->
 
-[![necrocultist's GitHub stats](https://github-readme-stats.vercel.app/api?username=necrocultist)](https://github.com/anuraghazra/github-readme-stats)
+[![necrocultist's GitHub stats](https://github-readme-stats.vercel.app/api?username=necrocultist&hide=prs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
