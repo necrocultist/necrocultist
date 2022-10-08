@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Game Development, Unity Engine, C++ and JavaScript.
 
 - My Accounts = 
-<a href="https://necrocultist.itch.io" class="link">Itch.io</a>
-<a href="https://steamcommunity.com/profiles/76561198062431863/" class="link">Steam</a>
-<a href="https://open.spotify.com/user/36vnb82azbhan6jrdmpg3bk16" class="link">Spotify</a>
-<a href="https://www.instagram.com/necrocultist/" class="link">Instagram</a>
+<a href="https://necrocultist.itch.io">Itch.io</a>
+<a href="https://steamcommunity.com/profiles/76561198062431863/">Steam</a>
+<a href="https://open.spotify.com/user/36vnb82azbhan6jrdmpg3bk16">Spotify</a>
+<a href="https://www.instagram.com/necrocultist/">Instagram</a>
 
 #### GitHub Stats
 
