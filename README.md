@@ -17,7 +17,7 @@
 
 #### Top Repositories
 
-<a href = "https://github.com/necrocultist/Big-Irony" target = "_blank"><img title = "Big IRony" src = "https://github-readme-stats.vercel.app/api/pin/?username=necrocultist&repo=Big-Irony&theme=dark&hide_border=false&bg_color=0D1117"></a> <a href = "https://github.com/necrocultist/Star-Destroyer" target = "_blank"><img title = "Star-Destroyer" src = "https://github-readme-stats.vercel.app/api/pin/?username=necrocultist&repo=Star-Destroyer&theme=dark&hide_border=false&bg_color=0D1117"></a> | <a href = "https://github.com/necrocultist/Tentaclescape" target = "_blank"><img title = "Tentaclescape" src = "https://github-readme-stats.vercel.app/api/pin/?username=necrocultist&repo=Tentaclescape&theme=dark&hide_border=false&bg_color=0D1117"></a>
+<a href = "https://github.com/necrocultist/Big-Irony" target = "_blank"><img title = "Big IRony" src = "https://github-readme-stats.vercel.app/api/pin/?username=necrocultist&repo=Big-Irony&theme=dark&bg_color=0D1117"></a> <a href = "https://github.com/necrocultist/Star-Destroyer" target = "_blank"><img title = "Star-Destroyer" src = "https://github-readme-stats.vercel.app/api/pin/?username=necrocultist&repo=Star-Destroyer&theme=dark&bg_color=0D1117"></a> | <a href = "https://github.com/necrocultist/Tentaclescape" target = "_blank"><img title = "Tentaclescape" src = "https://github-readme-stats.vercel.app/api/pin/?username=necrocultist&repo=Tentaclescape&theme=dark&bg_color=0D1117"></a>
 
 #### My Contributions Last Year
 
