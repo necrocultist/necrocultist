@@ -4,11 +4,12 @@
 - Working on a personal project on Unity.
 - Learning Unity Engine, C++ and JavaScript.
 
-- My Accounts = 
-<a href="https://necrocultist.itch.io">Itch.io</a>
-<a href="https://steamcommunity.com/profiles/76561198062431863/">Steam</a>
-<a href="https://open.spotify.com/user/36vnb82azbhan6jrdmpg3bk16">Spotify</a>
-<a href="https://www.instagram.com/necrocultist/">Instagram</a>
+- My Accounts = {
+    <a href="https://necrocultist.itch.io">Itch.io</a>
+    <a href="https://steamcommunity.com/profiles/76561198062431863/">Steam</a>
+    <a href="https://open.spotify.com/user/36vnb82azbhan6jrdmpg3bk16">Spotify</a>
+    <a href="https://www.instagram.com/necrocultist/">Instagram</a>
+}
 
 ### GitHub Stats
 
