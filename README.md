@@ -9,7 +9,7 @@
     <a href="https://steamcommunity.com/profiles/76561198062431863/">Steam</a>
     <a href="https://open.spotify.com/user/36vnb82azbhan6jrdmpg3bk16">Spotify</a>
     <a href="https://www.instagram.com/necrocultist/">Instagram</a>
-}
+};
 
 ### GitHub Stats
 
