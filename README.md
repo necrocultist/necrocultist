@@ -1,8 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/94318208/194726372-6a7b9f60-68ea-4507-a4b8-72acbd8249e4.jpg)
 
 - 3rd Grade Computer Engineering Student at Istanbul Technical University
-- Working on a personal project on Unity.
-- Learning Unity Engine, C++ and JavaScript.
 
 - My Accounts = {
     <a href="https://www.linkedin.com/in/karataskn20/">LinkedIn</a>
