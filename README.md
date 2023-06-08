@@ -14,4 +14,4 @@
 
 ### GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=necrocultist&theme=tokyonight_duo)](https://git.io/streak-stats)x    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=necrocultist&theme=tokyonight_duo)](https://git.io/streak-stats)
