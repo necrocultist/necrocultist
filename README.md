@@ -12,6 +12,8 @@
     <a href="https://www.instagram.com/necrocultist/">Instagram</a>
 };
 
+### GitHub Stats
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=necrocultist&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 ### Top Repositories
