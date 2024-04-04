@@ -2,7 +2,7 @@
 
 - 3rd grade computer engineering student at Istanbul Technical University
 
-- Most used languages: C# & C++
+- Mostly used languages: C# & Java
 
 - My Accounts = {
     <a href="https://www.linkedin.com/in/karataskn20/">LinkedIn</a>
